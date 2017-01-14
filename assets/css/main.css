@@ -6,6 +6,7 @@ body {
     color: #555;
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: Raleway;
@@ -377,8 +378,15 @@ hr {
     padding-bottom: 50px;
     text-align: center;
 }
+#lg .pricing {
+    background: #F2F2F2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
 #lg .desc {
     text-align: left;
+    /*! overflow: hidden; */
 }
 #call {
     background: #2f2f2f;
