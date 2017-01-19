@@ -579,3 +579,34 @@ hr {
     opacity: 1;
 }
 }
+
+/* CUSTOM STYLES BY DEVELOPER*/
+
+#mc_embed_signup {
+    padding-left: 15px;
+}
+
+#mc-embedded-subscribe-form {
+    display: inline-block;
+}
+
+#mc_embed_signup_scroll {
+    display: inline-block;
+}
+
+#mc_embed_signup_scroll > div{
+    display: inline-block;
+}
+
+#mce-EMAIL {
+    border-radius: 0px;
+    padding: 3px 3px 3px 5px;
+    margin: 5px 5px 10px 0px;
+    vertical-align: middle;
+}
+
+#mc-embedded-subscribe {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
