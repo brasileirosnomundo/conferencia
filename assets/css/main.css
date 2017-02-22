@@ -32,7 +32,7 @@ p {
     padding-top: 25px;
 }
 a {
-    color: #16a085;
+    color: #D73A31;
     word-wrap: break-word;
     -webkit-transition: color .1s ease-in, background .1s ease-in;
     -moz-transition: color .1s ease-in, background .1s ease-in;
@@ -65,14 +65,14 @@ hr {
 }
 .btn-green {
     color: #fff;
-    background-color: #1abc9c;
-    border-color: #1abc9c;
+    background-color: #56B1BF;
+    border-color: #56B1BF;
     font-weight: 300;
 }
 .btn-green:hover, .btn-green:focus, .btn-green:active, .btn-green.active, .open .dropdown-toggle.btn-green {
     color: #fff;
-    background-color: #16a085;
-    border-color: #16a085;
+    background-color: #032B2F;
+    border-color: #032B2F;
     font-weight: 300;
 }
 .tm {
@@ -109,7 +109,7 @@ hr {
     margin-top: 20px;
 }
 .menu h1.logo a:hover {
-    color: #1abc9c;
+    color: #56B1BF;
 }
 .menu img.logo {
     margin: 20px 0;
@@ -214,7 +214,7 @@ hr {
     transition: all .1s ease-in-out;
 }
 #headerwrap {
-    background: url(../img/header-bg1.jpg) no-repeat center top;
+    background: url(../img/acropoles-layer.jpeg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
@@ -257,7 +257,7 @@ hr {
     padding: 0;
 }
 #serviceswrap {
-    background: url(../img/services-bg.jpg) no-repeat center top;
+    background: url(../img/greece-flag.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
@@ -282,7 +282,7 @@ hr {
     margin-top: 150px;
 }
 #aboutwrap {
-    background: url(../img/about-bg.jpg) no-repeat center top;
+    background: url(../img/greece-flag.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
@@ -332,7 +332,7 @@ hr {
     margin-top: 150px;
 }
 #sp {
-    background: #2f2f2f;
+    background: #032B2F;
     padding-top: 35px;
     padding-bottom: 35px;
 }
@@ -360,7 +360,7 @@ hr {
 #portfolio {
     width: 100%}
 #participe {
-    background: #1abc9c;
+    background: #56B1BF;
     margin-top: 25px;
     padding-top: 35px;
     padding-bottom: 35px;
@@ -403,7 +403,7 @@ hr {
     /*! overflow: hidden; */
 }
 #call {
-    background: #2f2f2f;
+    background: #032B2F;
     padding-top: 35px;
     padding-bottom: 35px;
     text-align: center;
@@ -424,10 +424,10 @@ hr {
     padding: 15px;
 }
 #sf .lg {
-    background-color: #1abc9c;
+    background-color: #56B1BF;
 }
 #sf .dg {
-    background-color: #16a085;
+    background-color: #08708A;
 }
 #sf h4 {
     color: #fff;
