@@ -71,8 +71,8 @@ hr {
 }
 .btn-green:hover, .btn-green:focus, .btn-green:active, .btn-green.active, .open .dropdown-toggle.btn-green {
     color: #fff;
-    background-color: #032B2F;
-    border-color: #032B2F;
+    background-color: #044E56;
+    border-color: #044E56;
     font-weight: 300;
 }
 .tm {
