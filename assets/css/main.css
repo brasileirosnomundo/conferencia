@@ -612,3 +612,7 @@ hr {
     margin-bottom: 15px;
     margin-top: 10px;
 }
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
