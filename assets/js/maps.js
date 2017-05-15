@@ -22,8 +22,8 @@ function loadMap(){
 
 	 // Multiple Markers
     var markers = [
-        ['Titania', 37.9829545, 23.7287588],
-        ['Tiare Hotel', 37.9838772, 23.725094]
+        ['Titania', 37.9829503, 23.7309528], 
+        ['Tiare Hotel', 37.983873, 23.727288]
     ];
 
     // Info Window Content
