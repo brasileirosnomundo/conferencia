@@ -648,3 +648,8 @@ hr {
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
 }
+
+#map {
+    width: 100%;
+    height: 424px;
+}
